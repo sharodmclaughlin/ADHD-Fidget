@@ -10,9 +10,10 @@
 
 #Hello{
     font-size: 50px;
-    text-align: center
+    text-align: center;
+    background-image: !important
 }
 
-ion-content{
+/*ion-content{
     background-color:#F5FFED !important;
 }
